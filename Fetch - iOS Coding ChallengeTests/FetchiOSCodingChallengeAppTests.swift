@@ -1,9 +1,8 @@
 //___FILEHEADER___
 
 import XCTest
-@testable import ___VARIABLE_productName:identifier___
 
-final class ___FILEBASENAMEASIDENTIFIER___: XCTestCase {
+final class FetchiOSCodingChallengeAppTests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
