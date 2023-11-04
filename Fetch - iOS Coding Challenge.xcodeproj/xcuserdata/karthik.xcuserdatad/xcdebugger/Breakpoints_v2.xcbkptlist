@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "65909753-EF34-465D-8BEA-DD7D60F4FF36"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3F07FCD9-566B-4B5B-B2DD-5F3D541E94BF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Fetch - iOS Coding Challenge/NetWorkManager/NetWorkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "request(url:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2959011B-0841-480E-BC79-7C38663A500B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Fetch - iOS Coding Challenge/ViewModels/MealsDataViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "fetchMealsDatails(dessertId:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2959011B-0841-480E-BC79-7C38663A500B - a04fb4ee18600e8f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Fetch___iOS_Coding_Challenge.DessertInfo) -&gt; () in Fetch___iOS_Coding_Challenge.MealsDataViewModel.fetchMealsDatails(dessertId: Swift.String) -&gt; ()"
+                  moduleName = "Fetch - iOS Coding Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/karthik/Desktop/Fetch%20-%20iOS%20Coding%20Challenge/Fetch%20-%20iOS%20Coding%20Challenge/ViewModels/MealsDataViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "2959011B-0841-480E-BC79-7C38663A500B - a04fb4ee18600e8f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Fetch___iOS_Coding_Challenge.DessertInfo) -&gt; () in Fetch___iOS_Coding_Challenge.MealsDataViewModel.fetchMealsDatails(dessertId: Swift.String) -&gt; ()"
+                  moduleName = "Fetch - iOS Coding Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/karthik/Desktop/Fetch%20-%20iOS%20Coding%20Challenge/Fetch%20-%20iOS%20Coding%20Challenge/ViewModels/MealsDataViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "2959011B-0841-480E-BC79-7C38663A500B - a04fb4ee18600e8f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Fetch___iOS_Coding_Challenge.DessertInfo) -&gt; () in Fetch___iOS_Coding_Challenge.MealsDataViewModel.fetchMealsDatails(dessertId: Swift.String) -&gt; ()"
+                  moduleName = "Fetch - iOS Coding Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/karthik/Desktop/Fetch%20-%20iOS%20Coding%20Challenge/Fetch%20-%20iOS%20Coding%20Challenge/ViewModels/MealsDataViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "92">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2FDD5543-8AC5-4C99-935A-AAC39EE5DD36"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Fetch - iOS Coding Challenge/Views/DessertInfoView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "125"
+            endingLineNumber = "125"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "43C25721-A4B6-4E0F-A703-E5CA62B29CC6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Fetch - iOS Coding Challenge/Views/DessertInfoView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "127"
+            endingLineNumber = "127"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "60B6987B-791E-4666-9C32-3F4863F99801"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Fetch - iOS Coding Challenge/Views/DessertInfoView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "134"
+            endingLineNumber = "134"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "245DF56D-C67C-4500-B781-9B5CAAECB144"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Fetch - iOS Coding Challenge/Views/DessertInfoView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "141"
+            endingLineNumber = "141"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9FDCBDD8-613F-43B7-944D-3B0BFC4EDAED"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Fetch - iOS Coding Challenge/Views/DessertInfoView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "140"
+            endingLineNumber = "140"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
