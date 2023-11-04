@@ -8,7 +8,6 @@
 import SwiftUI
 
 struct ContentView: View {
-    @State private var progress: Float = 0.0
     let gridItems = [GridItem(.flexible()), GridItem(.flexible())]
     @ObservedObject var viewModel = MealsDataViewModel()
         var body: some View {
